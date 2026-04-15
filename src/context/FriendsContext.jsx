@@ -1,4 +1,3 @@
-
 "use client";
 import { createContext, useContext, useEffect, useState } from "react";
 
@@ -9,12 +8,14 @@ export const FriendsProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/data/friends.json")
-      .then((res) => res.json())
-      .then((data) => {
-        setFriends(data);
-        setLoading(false);
-      });
+    const fetchFriends = async () => {
+      const res = await fetch("/data.json");
+      const data = await res.json();
+      setFriends(data);
+      setLoading(false);
+    };
+
+    fetchFriends();
   }, []);
 
   return (
