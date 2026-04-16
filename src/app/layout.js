@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
         <FriendsProvider>
           <Navbar></Navbar>
         {children}
-        <ToastContainer position="top-center"></ToastContainer>
+        <ToastContainer autoClose={3000} position="top-center"></ToastContainer>
         <Footer></Footer>
         </FriendsProvider>
         </body>

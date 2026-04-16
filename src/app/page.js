@@ -9,7 +9,7 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <div>
+    <div className="px-4">
       <Banner></Banner>
       <FriendCounter></FriendCounter>
       <FriendsSection></FriendsSection>
