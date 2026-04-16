@@ -1,6 +1,10 @@
 "use client";
 import { useFriends } from '@/context/FriendsContext';
 import { PieChart, Pie, Cell, Legend, Tooltip, ResponsiveContainer } from "recharts";
+export const metadata = {
+  title: "Stats | KeenKeeper",
+  description: "Homepage of KeenKeeper",
+};
 
 const COLORS = {
   call: "#244D3F",
