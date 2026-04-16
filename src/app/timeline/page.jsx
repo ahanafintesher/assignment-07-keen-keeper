@@ -4,10 +4,6 @@ import { useFriends } from "@/context/FriendsContext";
 import { IoCallOutline } from "react-icons/io5";
 import { BsChatSquareText } from "react-icons/bs";
 import { MdOutlineVideocam } from "react-icons/md";
-export const metadata = {
-  title: "Timeline | KeenKeeper",
-  description: "Timeline of KeenKeeper",
-};
 
 const iconConfig = {
   call: {
