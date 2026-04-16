@@ -9,7 +9,7 @@ const FriendCounter = () => {
   const overDue = friends?.filter((f) => f.status === "overdue").length || 0;
 
   return (
-    <div className='container mx-auto grid grid-cols-4 gap-4'>
+    <div className='container mx-auto grid grid-cols-4 gap-4 mb-10'>
       <div className='text-center shadow-lg p-8 rounded-2xl'>
         <h3 className='font-semibold text-3xl mb-2 text-[#244D3F]'>{totalFriends}</h3>
         <p className='text-lg text-[#64748B]'>Total Friends</p>
