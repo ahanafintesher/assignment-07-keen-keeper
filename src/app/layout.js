@@ -26,7 +26,7 @@ export const metadata = {
     siteName: "KeenKeeper",
     images: [
       {
-        url: "https://i.ibb.co.com/7JXNGSjP/Screenshot-2026-04-16-225346.png",
+        url: "https://keen-keeper-xi-plum.vercel.app/og-img.png",
         width: 1200,
         height: 630,
       },
