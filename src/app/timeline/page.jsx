@@ -73,7 +73,7 @@ const Timeline = () => {
                 </div>
 
                 
-                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between  gap-1">
+                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between w-full gap-1">
                   <div>
                     <p className="font-semibold text-base">
                       {config.label} with {entry.name}
