@@ -6,7 +6,7 @@ import { BsChatSquareText } from "react-icons/bs";
 import { MdOutlineVideocam } from "react-icons/md";
 export const metadata = {
   title: "Timeline | KeenKeeper",
-  description: "Homepage of KeenKeeper",
+  description: "Timeline of KeenKeeper",
 };
 
 const iconConfig = {

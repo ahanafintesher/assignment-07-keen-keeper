@@ -3,7 +3,7 @@ import { useFriends } from '@/context/FriendsContext';
 import { PieChart, Pie, Cell, Legend, Tooltip, ResponsiveContainer } from "recharts";
 export const metadata = {
   title: "Stats | KeenKeeper",
-  description: "Homepage of KeenKeeper",
+  description: "Stats Page of KeenKeeper",
 };
 
 const COLORS = {
