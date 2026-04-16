@@ -17,7 +17,22 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "KeenKeeper",
-  description: "Keep your friendships alive",
+  description: "Get Your Friends Close",
+
+  openGraph: {
+    title: "KeenKeeper",
+    description: "Get Your Friends Close",
+    url: "https://keen-keeper-xi-plum.vercel.app/",
+    siteName: "KeenKeeper",
+    images: [
+      {
+        url: "https://i.ibb.co.com/7JXNGSjP/Screenshot-2026-04-16-225346.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {
