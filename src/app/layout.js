@@ -26,7 +26,7 @@ export const metadata = {
     siteName: "KeenKeeper",
     images: [
       {
-        url: "https://keen-keeper-xi-plum.vercel.app/og-img.png",
+        url: "/og-img.png",
         width: 1200,
         height: 630,
       },
