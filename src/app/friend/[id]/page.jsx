@@ -62,10 +62,10 @@ const FriendDetails = () => {
     <div className="container mx-auto px-4 py-8">
       <div className="flex flex-col lg:flex-row gap-6">
 
-        {/* Left Column */}
+       
         <div className="flex flex-col gap-4 w-full lg:w-1/3">
 
-          {/* Friend Info Card */}
+         
           <div className="shadow-lg rounded-2xl p-6 flex flex-col items-center text-center gap-3">
             <Image
               src={friend.picture}
@@ -89,7 +89,7 @@ const FriendDetails = () => {
             <p className="text-sm text-gray-400">{friend.email}</p>
           </div>
 
-          {/* Action Buttons */}
+        
           <div className="shadow-lg rounded-2xl p-4 flex flex-col gap-3">
             <button onClick={() => {handleCalls}} className="btn btn-ghost shadow-lg w-full justify-start gap-3 font-semibold">
               <IoAlarmOutline size={18} /> Snooze 2 Weeks
