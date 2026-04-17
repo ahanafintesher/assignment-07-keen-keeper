@@ -29,7 +29,7 @@ const Navbar = () => {
         </div>
 
        
-        <div className="navbar-end hidden md:flex">
+        <div className="navbar-end hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             {navLinks.map((link) => (
               <li key={link.href}>
@@ -44,7 +44,7 @@ const Navbar = () => {
         </div>
 
        
-        <div className="md:hidden">
+        <div className="lg:hidden">
           <button className="btn btn-ghost" onClick={() => setMenuOpen(!menuOpen)}>
             {menuOpen ? <RiCloseLine size={24} /> : <RiMenu3Line size={24} />}
           </button>
@@ -54,7 +54,7 @@ const Navbar = () => {
 
      
       {menuOpen && (
-        <div className="md:hidden bg-base-100 border-b-2 border-gray-100 px-4 pb-4">
+        <div className="lg:hidden bg-base-100 border-b-2 border-gray-100 px-4 pb-4">
           <ul className="flex flex-col gap-2">
             {navLinks.map((link) => (
               <li key={link.href}>
