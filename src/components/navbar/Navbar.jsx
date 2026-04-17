@@ -22,7 +22,7 @@ const Navbar = () => {
       <div className="navbar bg-base-100 border-b-2 border-gray-100">
         
        
-        <div className="flex-1">
+         <div className="flex-1">
           <p className="text-2xl">
             <span className="font-bold">Keen</span>Keeper
           </p>
