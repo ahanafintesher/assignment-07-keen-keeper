@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "David Kim",
+    "name": "Sophia Turner",
     "picture": "https://i.ibb.co.com/8D2TcGR5/friend1.png",
     "email": "david.kim@example.com",
     "days_since_contact": 62,
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "name": "Emma Wilson",
+    "name": "Aiden Brooks",
     "picture": "https://i.ibb.co.com/q2RM011/friend2.png",
     "email": "emma.wilson@example.com",
     "days_since_contact": 62,
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "name": "Lisa Nakamura",
+    "name": "Noah Sato",
     "picture": "https://i.ibb.co.com/Rpd2SFcn/friend3.png",
     "email": "lisa.nakamura@example.com",
     "days_since_contact": 62,
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "name": "James Wright",
+    "name": "Liam Carter",
     "picture": "https://i.ibb.co.com/kR0DrNG/friend4.png",
     "email": "james.wright@example.com",
     "days_since_contact": 62,
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "name": "David Kim",
+    "name": "Olivia Bennett",
     "picture": "https://i.ibb.co.com/RGWL9P8f/friend5.png",
     "email": "david2.kim@example.com",
     "days_since_contact": 62,
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "name": "Emma Wilson",
+    "name": "Ethan Hayes",
     "picture": "https://i.ibb.co.com/TDWwJqLp/friend6.png",
     "email": "emma2.wilson@example.com",
     "days_since_contact": 62,
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "name": "Lisa Nakamura",
+    "name": "Logan Price",
     "picture": "https://i.ibb.co.com/XrpZ7dZg/friend7.png",
     "email": "lisa2.nakamura@example.com",
     "days_since_contact": 62,
@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "name": "James Wright",
+    "name": "Lucas Reed",
     "picture": "https://i.ibb.co.com/SXffKwdT/friend8.png",
     "email": "james2.wright@example.com",
     "days_since_contact": 62,
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "name": "David Kim",
+    "name": "Mia Tanaka",
     "picture": "https://i.ibb.co.com/yFpVDYP4/friend9.png",
     "email": "david3.kim@example.com",
     "days_since_contact": 62,
@@ -109,7 +109,7 @@
   },
   {
     "id": 10,
-    "name": "Emma Wilson",
+    "name": "Isabella Cruz",
     "picture": "https://i.ibb.co.com/jPC20gbR/friend10.png",
     "email": "emma3.wilson@example.com",
     "days_since_contact": 62,
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "name": "Lisa Nakamura",
+    "name": "Haruto Watanabe",
     "picture": "https://i.ibb.co.com/FqfJBvt1/friend11.png",
     "email": "lisa3.nakamura@example.com",
     "days_since_contact": 62,
@@ -133,7 +133,7 @@
   },
   {
     "id": 12,
-    "name": "James Wright",
+    "name": "Daniel Foster",
     "picture": "https://i.ibb.co.com/yc1x13t8/friend12.png",
     "email": "james3.wright@example.com",
     "days_since_contact": 62,
