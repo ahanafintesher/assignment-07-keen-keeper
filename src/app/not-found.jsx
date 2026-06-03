@@ -11,7 +11,7 @@ const NotFound = () => {
             <p className='text-xl text-[#64748B] mb-4'>Looks like this this friendship link is broken. The page
                 <br />
                 you're looking for doesn't exist or has been moved </p>
-
+{/* base url changed */}
                 <Link href={"/"}>
                     <button className='btn btn-ghost bg-[#244D3F] text-white'>
                         <span><RiHome2Line size={20} /></span>
