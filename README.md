@@ -4,6 +4,7 @@
 > Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
 
 🔗 **Live Site:** [https://keen-keeper-xi-plum.vercel.app](https://keen-keeper-xi-plum.vercel.app)  
+🔗 **GitHub Repo:** [https://github.com/ahanafintesher/keen-keeper](https://github.com/ahanafintesher/keen-keeper) 
 
 ---
 
